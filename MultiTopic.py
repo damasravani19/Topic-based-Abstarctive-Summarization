@@ -81,7 +81,7 @@ for make in np.arange(Num_of_articles):
         pointers.append(0)
 
     # fp3=open("1.txt","w+")
-    tot_articles -= len(pointers)
+    # tot_articles -= len(pointers)
     single_doc = []
     topic_order = []
     while True:
